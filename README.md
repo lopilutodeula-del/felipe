@@ -10,9 +10,7 @@ npm start
 ```
 
 Arquivos adicionados pelo scaffold:
-- `package.json` — scripts de execução
-- `src/index.js` — ponto de entrada mínimo
-- `.gitignore` — para `node_modules`
 
 Edite ou remova o scaffold conforme necessário.
+![CI](https://github.com/lopilutodeula-del/felipe/actions/workflows/ci.yml/badge.svg?branch=main)
 # felipe
