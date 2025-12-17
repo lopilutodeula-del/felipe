@@ -13,4 +13,5 @@ Arquivos adicionados pelo scaffold:
 
 Edite ou remova o scaffold conforme necessário.
 ![CI](https://github.com/lopilutodeula-del/felipe/actions/workflows/ci.yml/badge.svg?branch=main)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 # felipe
